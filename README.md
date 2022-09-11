@@ -1,7 +1,7 @@
 # DoctorCare.
 Landing Page para agendamentos de médicos especificos como por exemplo, Cardiologista  Clínico geral e Dermatologista.
 
-#landing page
+landing page
 O que é landing page?
 Landing page é uma página criada com um objetivo de conversão. Este conceito diz respeito a uma ação que queremos que o visitante realize na página — um cadastro, o download de algum material ou a compra de um produto, por exemplo.
 
